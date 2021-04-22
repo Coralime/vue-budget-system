@@ -1,0 +1,71 @@
+{
+  "code": 20000,
+  "message": "请求成功！",
+  "data": {
+    "role_list": [
+      {
+        "role_id": "1001",
+        "role_name": "系统管理员",
+        "remark": "按总公司、省公司、市公司、县支公司层次机构划分系统管理员",
+        "creater": "14201007",
+        "create_time": "2021-04-16"
+      },
+      {
+        "role_id": "1002",
+        "role_name": "一把手",
+        "remark": "总公司一把手",
+        "creater": "14201007",
+        "create_time": "2021-04-16"
+      },
+      {
+        "role_id": "1003",
+        "role_name": "分管总",
+        "remark": "总公司分管总",
+        "creater": "14201007",
+        "create_time": "2021-04-16"
+      },
+      {
+        "role_id": "1004",
+        "role_name": "财务部门总",
+        "remark": "总公司财务部门总",
+        "creater": "14201007",
+        "create_time": "2021-04-16"
+      },
+      {
+        "role_id": "1005",
+        "role_name": "财务复核",
+        "remark": "总公司财务复核",
+        "creater": "14201007",
+        "create_time": "2021-04-16"
+      },
+      {
+        "role_id": "1006",
+        "role_name": "预算岗",
+        "remark": "总公司预算岗",
+        "creater": "14201007",
+        "create_time": "2021-04-16"
+      },
+      {
+        "role_id": "1007",
+        "role_name": "部门总",
+        "remark": "总公司部门总",
+        "creater": "14201007",
+        "create_time": "2021-04-16"
+      },
+      {
+        "role_id": "1008",
+        "role_name": "部门复核",
+        "remark": "总公司部门复核",
+        "creater": "14201007",
+        "create_time": "2021-04-16"
+      },
+      {
+        "role_id": "1009",
+        "role_name": "经办",
+        "remark": "总公司经办",
+        "creater": "14201007",
+        "create_time": "2021-04-16"
+      }
+    ]
+  }
+}
